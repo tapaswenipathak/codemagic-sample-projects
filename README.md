@@ -32,7 +32,9 @@ If there are any use cases are not covered in the sample projects you can create
 
 [https://github.com/codemagic-ci-cd/codemagic-sample-projects/issues](https://github.com/codemagic-ci-cd/codemagic-sample-projects/issues)
 
-**For more projects, reports, features, please see: https://github.com/tapaswenipathak/writing/tree/main/CodeMagic/Guide%20to%20mobsfscan%20with%20Codemagic**
+## Projects for CodeMagic with Mobsfscan
+
+For more projects, reports, features, please see [this](https://github.com/tapaswenipathak/writing/tree/main/CodeMagic/Guide%20to%20mobsfscan%20with%20Codemagic) directory.
 
 
 
