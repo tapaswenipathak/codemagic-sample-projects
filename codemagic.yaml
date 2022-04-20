@@ -71,7 +71,6 @@ workflows:
               failure: false               # To not receive a notification when a build fails
     ios-manual-code-signing:
       name: iOS manual code signing
-      instance_type: mac_pro
       working_directory: ios/ios-manual-code-signing-demo-project      
       environment:
         vars:
